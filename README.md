@@ -1,5 +1,10 @@
 # Hello, I'm Dhananjay
 <a href="www.linkedin.com/in/dhananjay-chandrikapure-mo8928891282"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1290762" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/VirusDanny.png" alt="Your Image Badge" /> https://tryhackme.com/p/VirusDanny
+
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+
 
 ## 👋 About Me
 
