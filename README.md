@@ -1,7 +1,7 @@
 # Hello, I'm Dhananjay
 <a href="www.linkedin.com/in/dhananjay-chandrikapure-mo8928891282"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-👋 About Me
+## 👋 About Me
 
 Hi, I’m Dhananjay Chandrikapure, a dedicated cybersecurity professional with a strong interest in information security, incident response, and system protection. I’ve completed an Advanced Certificate Course in High-Performance Computing and Cyber Security from CDAC, gaining hands-on experience with cybersecurity tools, technologies, and best practices.
 
@@ -14,12 +14,10 @@ Currently seeking opportunities to grow as a Security Analyst and tackle real-wo
 
 
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🎯 Objectives
+To build a successful career in cybersecurity by applying my knowledge of security operations, incident analysis, and threat management. I aim to continuously learn, adapt to emerging security challenges, enhance my technical skills, and contribute to securing digital environments. My goal is to work in dynamic security teams, handle real-world incidents, and support organizations in strengthening their security posture — specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
+## 🛠️ Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
