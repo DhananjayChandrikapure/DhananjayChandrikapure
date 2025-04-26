@@ -1,9 +1,18 @@
 # Hello, I'm Dhananjay
 <a href="www.linkedin.com/in/dhananjay-chandrikapure-mo8928891282"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+👋 About Me
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hi, I’m Dhananjay Chandrikapure, a dedicated cybersecurity professional with a strong interest in information security, incident response, and system protection. I’ve completed an Advanced Certificate Course in High-Performance Computing and Cyber Security from CDAC, gaining hands-on experience with cybersecurity tools, technologies, and best practices.
+
+I’ve worked on projects and internship tasks involving phishing analysis, threat intelligence, incident analysis, vulnerability management, and data recovery. I’ve also handled firewall management and configured IDS/IPS systems, building a solid foundation in security operations and network defense.
+
+This portfolio highlights my personal projects, learning exercises, and research in cybersecurity. I’m passionate about staying updated, improving my skills, and contributing to the security community.
+
+Currently seeking opportunities to grow as a Security Analyst and tackle real-world security challenges.
+
+
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
