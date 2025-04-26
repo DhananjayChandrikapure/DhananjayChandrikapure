@@ -3,7 +3,7 @@
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1290762" style='border:none;'></iframe>
 <img src="https://tryhackme-badges.s3.amazonaws.com/VirusDanny.png" alt="Your Image Badge" /> https://tryhackme.com/p/VirusDanny
 
-![tryhackme stats](https://raw.githubusercontent.com/VirusDanny/VirusDanny/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/VirusDanny/VirusDanny/master/assets/tryhackme-badge.png)
 
 
 ## 👋 About Me
