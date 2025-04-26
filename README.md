@@ -17,7 +17,8 @@ This portfolio highlights my personal projects, learning exercises, and research
 Currently seeking opportunities to grow as a Security Analyst and tackle real-world security challenges.
 
 
-![TryHackMe Stats](https://raw.githubusercontent.com/VirusDanny/dhananjaychandrikapure/master/assets/thm_propic.png)
+![TryHackMe Stats](https://raw.githubusercontent.com/VirusDanny/Dhananjay-Chandrikapure/master/assets/tryhackme-badge.png)
+
 
 
 ## 🎯 Objectives
